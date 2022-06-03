@@ -1,0 +1,13 @@
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{296, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+        "url": "https://ibb.co/VBM8QzY",
+        "title": "FastAnim",
+        "package": "red.special.fastanim",
+        "hideShadow": false
+    }
+  ]
+}

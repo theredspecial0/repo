@@ -1,0 +1,37 @@
+Architectures: iphoneos-arm
+Codename: redrepo
+Components: main
+Date: Fri, 03 Jun 2022 16:56:19 +0000
+Description: iOS/iPadOS jailbreak tweaks by TheRedSpecial
+Label: Red's Repo
+Origin: Red's Repo
+Suite: stable
+Version: 1.0
+MD5Sum:
+ 2dd57fa759c029beeaa0fc3a8e7922b5              661 Packages
+ 1b3b4543ec08dafb9c939d5afb1e1696              509 Packages.bz2
+ 5d8e8529826b354fcc08d0d944ef0ed3              471 Packages.gz
+ 308250ecf5411a1849bfbbbd193d4861              540 Packages.xz
+ ea5c9efd17e38e19ed14021b4d7246b9              468 Packages.zst
+ c4c73a5adc71b01da09e0104ab88ea2c              223 Release
+SHA1:
+ 0246ebfa5837b815438ea0ed3cb8673eff9c36b1              661 Packages
+ 89fa648143a16de5201ec73a3ee0be59fed0f783              509 Packages.bz2
+ 8d39e60c8f6988c9d0cb00231a2035f7267913f1              471 Packages.gz
+ 89684a0297975edada6435ddd8e75d5c49c9513a              540 Packages.xz
+ b3716f3db4e7c5e25383c1a81dc481cfebc06a1e              468 Packages.zst
+ 768558bdb7b796cb3995d5b9ba1fb70f9ae19af2              223 Release
+SHA256:
+ 78c4bcc04ed4ee532fe526264f2521f0a29033ab71f08665c1849649dd147d51              661 Packages
+ 121b09516f8e5b362d537886dffe5b26fccbb871d671d8d6f25a791baa7d2d2b              509 Packages.bz2
+ ad2830506aea1457d71fd959087d9dee6fc83bf4ee61b6bf2ed119b351f3058b              471 Packages.gz
+ 72f948676a3e18699e2c3b60a04ce5582dd903f69b610a8fbbd2d57476f431ed              540 Packages.xz
+ fd9967f18bc921e64d5868c95dfccf9509df2671e8cd909b29df54582b433e0c              468 Packages.zst
+ 636b9f2806990f9147315536bf8d9d6c144994fbd3f3401791e1b4a5d8c5c135              223 Release
+SHA512:
+ f7262dfb118910daed0b1732be655eb6655405c8e0bfa825d7522dfc64643327c8f88c63abafdcce60fa032af32340aba39a9e7622300642083199fe6997cacb              661 Packages
+ f16fd54dc84f8ccef080f75eb2cd7300fa7c3ae665f50691aa2e849035af7ea77a882b5ebfcff2cd364f4c77c03124220bfc34dba8d814eb725dab025c9e7575              509 Packages.bz2
+ 75c29264ea1df9ea9ae85725c5139d9b3255fc47fbe742172c58faf8867f6e69aa1613cc2d4fdec3559644ef436e009955bfddc2bf1349b0083f26f87186f73d              471 Packages.gz
+ 333f68952d80b5498cdb09e458823c687fe0ea9157a95c957232ffe6fe26c829172fb39466c1d93ddf7eeca1711535e6597f681cfbff203602728a0c596b8871              540 Packages.xz
+ e30aac9fe4ae3159eb33c9e340792ef3ae7440949c3f7100e15dbce05ecaefb53070e54bf80d25c1967230241e06231aeb90c0a9ce66b385690af5b23051744c              468 Packages.zst
+ 823353cde3e44577fcb65a10eba2f540ec0fc84c6cf9a1d43bd8f293c159f62310b98963f5b19863968fe8afe862d46d5883148bc3131d759fc3ad7a57122513              223 Release
