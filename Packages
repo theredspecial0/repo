@@ -23,11 +23,11 @@ Maintainer: TheRedSpecial
 Installed-Size: 292
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3), firmware (>= 13.0)
 Filename: ./debians/red.special.fastanim.deb
-Size: 14168
-MD5sum: aea60a7dd2180b48cddab31d7deea0dd
-SHA1: d570f7c8ff40c70d142a613bee3e05adbf928c0e
-SHA256: 5b92e36368c38ae45d85d5f006b5d932722574a9a6eb97f5a83ee9b9ef560236
-SHA512: a782d945cb89477fe204f63ea6ac785ce68e9f56ec532d2f3ae4cddcf1eee442698a87fa9b67df1105f1116d17abab3379ee79c2297d4437726b372251f9dfaa
+Size: 14416
+MD5sum: 8aa52a445bc57d4b69aae76bf52d5558
+SHA1: 849d4102c95401b0cdae6a171e51cc22e1537405
+SHA256: 05e7a6f13450a49fb80d540b36acc7026be7be8b5ba59ac22456425266ee7da5
+SHA512: d96465857a5de1a4e699b49cfd5117304e831a298840836056c08a0221c50d2690aa8bc1798e6df4193bea938158dd66628b60728b37db24f60ef8a7d42dff0c
 Description: Speed up SpringBoard Animations!
 Name: FastAnim
 Author: TheRedSpecial
