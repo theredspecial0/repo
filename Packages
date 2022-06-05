@@ -15,3 +15,20 @@ Description: Speed up SpringBoard Animations!
 Name: FastAnim
 Author: TheRedSpecial
 
+Package: red.special.ytenhance
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: TheRedSpecial
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/red.special.ytenhance.deb
+Size: 4962
+MD5sum: 6aca4bd2234b107d7f3bd90c2bbc2779
+SHA1: 16c5bc5f101691f51c89fa86422499f1dc78650a
+SHA256: 18a2cf39d3f14dbf539f2ee1aec0f333fc77031a970c09381176f2a43af52403
+SHA512: 0053f88de5208c1cb61906c90f98e9d542aaae92b5bf020def2cef14393b6fabb3a32116a23c9b712e7d49839a64b70ece43484460822fad7b4ae3cfb016039c
+Description: Enhance your YouTube experience!
+Name: YTEnhance
+Author: TheRedSpecial
+

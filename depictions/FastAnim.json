@@ -1,14 +1,14 @@
 {
 	"minVersion": "0.1",
-	"headerImage": "https://ibb.co/VBM8QzY",
-	"tintColor": "#ffae8e",
+	"headerImage": "https://github.com/theredspecial0/repo/images/red_15.png/",
+	"tintColor": "#40d6d1",
 	"tabs": [
 		{
 			"tabname": "Details",
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## TWEAK_NAME\nSHORT_DESCRIPTION"
+					"markdown": "Speed up SpringBoard Animations!"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -19,32 +19,27 @@
 				},
 				{
 					"title": "Version",
-					"text": "VERSION_NUMBER",
+					"text": "0.0.1",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Released",
-					"text": "RELEASE_DATE",
+					"text": "1/5/22",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Price",
-					"text": "PRICE",
+					"text": "Free",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Developer",
-					"text": "DEVELOPER_NAME",
+					"text": "TheRedSpecial",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Website",
-					"action": "WEBSITE_HERE",
-					"class": "DepictionTableButtonView"
-				},
-				{
-					"title": "Use This Template",
-					"action": "https://github.com/syns/repo.me",
+					"action": "https://github.com/theredspecial0/",
 					"class": "DepictionTableButtonView"
 				},
 				{
