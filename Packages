@@ -49,6 +49,23 @@ Description: Hide your Dock with this simple tweak!
 Name: NoDock
 Author: TheRedSpecial
 
+Package: red.special.switcherradius
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: TheRedSpecial
+Installed-Size: 292
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader (>= 2.2.3)
+Filename: ./debians/red.special.switcherradius.deb
+Size: 12372
+MD5sum: 0d6884abdf190ca10b569612023e5982
+SHA1: 15b928806312c43d2865849f7c226c3d0a404752
+SHA256: 782236dfe5e9db9b62dad122aa96beaf803989f2b2e2026dfd2065b558a19790
+SHA512: 13cea3b7861237c04a7c508eb1fb2de6079b6702b8a8e3abb54c72bc2f33c756f62e3fa9c719cb43f3489073525fa2291ab6534df53e72b403585e7c8fbabbf8
+Description: Change the radii of the App Switcher pages
+Name: SwitcherRadius
+Author: TheRedSpecial
+
 Package: red.special.ytenhance
 Architecture: iphoneos-arm
 Version: 0.0.1
