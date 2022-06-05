@@ -1,3 +1,20 @@
+Package: red.special.cleardock
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: TheRedSpecial
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debians/red.special.cleardock.deb
+Size: 3310
+MD5sum: 732e71670bef08aeb75d98c59eebb20e
+SHA1: aa6b501b446cf89e661535d606af7b2517c4f7bc
+SHA256: c5fa189bb5d2eb209b43221755bb75eac2cffec02ea8e5119242db2b24822ff3
+SHA512: d56b3d390c7bd83031a25ceee753a38dfc273a32416e8153c57d6167d9fbe50702d2331681127194bd5907a83e2be33af4496d6645ef4e01e41aef6c0fc7925d
+Description: Remove the dock background blur!
+Name: ClearDock
+Author: TheRedSpecial
+
 Package: red.special.fastanim
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -13,6 +30,23 @@ SHA256: 5b92e36368c38ae45d85d5f006b5d932722574a9a6eb97f5a83ee9b9ef560236
 SHA512: a782d945cb89477fe204f63ea6ac785ce68e9f56ec532d2f3ae4cddcf1eee442698a87fa9b67df1105f1116d17abab3379ee79c2297d4437726b372251f9dfaa
 Description: Speed up SpringBoard Animations!
 Name: FastAnim
+Author: TheRedSpecial
+
+Package: red.special.nodock
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Section: Tweaks
+Maintainer: TheRedSpecial
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debians/red.special.nodock.deb
+Size: 3110
+MD5sum: 1c24cd81717e078c46a1ed27070f175f
+SHA1: ef5052f281eda6276ef073d4699572bb784cab72
+SHA256: 36f44f5336ffbd869a66b703d573b9cd08df28250e24b526353617c333c31637
+SHA512: 716fae54d44afd4bd90a68590108958250890b82c0dbab85c98c2bb34c30b026a2de4a4b089d12dfcd54f68bfddbac38eba8b7db86728cdbedcef4564b05a21e
+Description: Hide your Dock with this simple tweak!
+Name: NoDock
 Author: TheRedSpecial
 
 Package: red.special.ytenhance
